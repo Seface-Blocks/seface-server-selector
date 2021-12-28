@@ -14,5 +14,7 @@ public class SefaceServerSelector extends JavaPlugin {
 
     Registry.registerConfiguration(this);
     Registry.registerBungeeMessageChannel(this);
+    Registry.registerCommands(this);
+    Registry.registerEvents(this);
   }
 }
