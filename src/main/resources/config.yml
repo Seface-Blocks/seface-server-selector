@@ -1,0 +1,17 @@
+# =================================================== #
+#                   SERVER SELECTOR                   #
+# =================================================== #
+server-selector:
+  gui:
+    size: 27
+    name: "Server Selector"
+
+  servers:
+    <name>:
+      name: "Your server name"
+      slot: 13
+      description:
+        - "&7My server description!&r"
+        - ""
+        - "&aAllowed versions: &71.18&r"
+      icon: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTZiMGU3ZDQ1MDRhZGQ5OTU4Mzg3OGEzY2QzMTRkMmQ5MmE1Yzc3NmZkY2RlNzAzZWRhZGQzZDE0ZGNmYzM5ZiJ9fX0="
