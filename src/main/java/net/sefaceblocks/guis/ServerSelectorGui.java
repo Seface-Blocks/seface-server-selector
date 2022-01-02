@@ -29,7 +29,7 @@ public class ServerSelectorGui {
   @Getter private static Inventory inventory;
 
   public ServerSelectorGui() {
-    inventory = Bukkit.createInventory(null, GUI_SIZE, GUI_NAME);
+    inventory = Bukkit.createInventory(null, GUI_SIZE, Utils.replaceColor(GUI_NAME));
 
     SERVERS_SECTION.getKeys(false).forEach(server -> {
       int slot = getInstance().getConfig().getInt("server-selector.servers." + server + ".slot");

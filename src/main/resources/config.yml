@@ -4,7 +4,7 @@
 server-selector:
   gui:
     size: 27
-    name: "&7Server Selector&r"
+    name: "&8Server Selector&r"
 
   servers:
     Lobby:
