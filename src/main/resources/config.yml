@@ -4,12 +4,12 @@
 server-selector:
   gui:
     size: 27
-    name: "Server Selector"
+    name: "&7Server Selector&r"
 
   servers:
-    <name>:
-      name: "Your server name"
+    Lobby:
       slot: 13
+      name: "&dYour server name&r"
       description:
         - "&7My server description!&r"
         - ""
