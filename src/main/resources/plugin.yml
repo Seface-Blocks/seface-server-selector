@@ -7,5 +7,6 @@ commands:
   servers:
     description: Switch servers through a GUI.
     usage: /<command>
+    permission: seface.command.servers
     aliases:
       - sv
