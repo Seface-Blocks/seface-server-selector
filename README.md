@@ -11,7 +11,7 @@ You can find the CHANGELOG [here](CHANGELOG.md)
 
 ### About Seface Plugin
 ---
-Seface Plugin has the function to improve the experience with common actions in professional build servers. 
+Seface Server Selector has the function to improve the experience with BungeeCord network. 
 
 ### Development
 ---
