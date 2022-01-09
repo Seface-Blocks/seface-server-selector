@@ -2,6 +2,7 @@ name: SefaceServerSelector
 description: A Minecraft Java Edition plugin to connect between servers via GUI.
 main: net.sefaceblocks.SefaceServerSelector
 version: 1.1.0
+api-version: 1.13
 commands:
   servers:
     description: Switch servers through a GUI.

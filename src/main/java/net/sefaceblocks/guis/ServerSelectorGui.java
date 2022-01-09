@@ -53,7 +53,7 @@ public class ServerSelectorGui {
     GameProfile profile = new GameProfile(UUID.randomUUID(), server);
     profile.getProperties().put("textures", new Property("textures", texture));
 
-    ItemStack skull = new ItemStack(Material.SKULL_ITEM, 1, (short) 3);
+    ItemStack skull = new ItemStack(Material.PLAYER_HEAD, 1);
     SkullMeta skullMeta = (SkullMeta) skull.getItemMeta();
 
     try {
