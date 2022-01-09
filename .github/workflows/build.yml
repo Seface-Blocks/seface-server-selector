@@ -2,9 +2,9 @@ name: Build
 
 on:
   push:
-    branches: [master]
+    branches: [spigot-1.12]
   pull_request:
-    branches: [master]
+    branches: [spigot-1.12]
 
 jobs:
   build:
