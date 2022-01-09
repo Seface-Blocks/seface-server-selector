@@ -1,5 +1,7 @@
 # Folders
 target/
 .idea/
+.vscode/
+build/
 
 # Files
